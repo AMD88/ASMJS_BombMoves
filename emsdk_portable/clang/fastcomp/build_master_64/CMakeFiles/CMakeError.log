@@ -1,0 +1,523 @@
+Determining if the include file malloc/malloc.h exists failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a6409/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a6409.dir/build.make CMakeFiles/cmTC_a6409.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a6409.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_a6409.dir/CheckIncludeFile.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:27: fatal error: malloc/malloc.h: No such file or directory
+ #include <malloc/malloc.h>
+                           ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_a6409.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_a6409/fast] Error 2
+
+
+Determining if the include file ndir.h exists failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_95be9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_95be9.dir/build.make CMakeFiles/cmTC_95be9.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_95be9.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_95be9.dir/CheckIncludeFile.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:18: fatal error: ndir.h: No such file or directory
+ #include <ndir.h>
+                  ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_95be9.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_95be9/fast] Error 2
+
+
+Determining if the include file sys/ndir.h exists failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4605e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4605e.dir/build.make CMakeFiles/cmTC_4605e.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4605e.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_4605e.dir/CheckIncludeFile.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: sys/ndir.h: No such file or directory
+ #include <sys/ndir.h>
+                      ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_4605e.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_4605e/fast] Error 2
+
+
+Determining if the include file valgrind/valgrind.h exists failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e28e5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e28e5.dir/build.make CMakeFiles/cmTC_e28e5.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e28e5.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_e28e5.dir/CheckIncludeFile.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:31: fatal error: valgrind/valgrind.h: No such file or directory
+ #include <valgrind/valgrind.h>
+                               ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_e28e5.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_e28e5/fast] Error 2
+
+
+Determining if the include file mach/mach.h exists failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_304fd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_304fd.dir/build.make CMakeFiles/cmTC_304fd.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_304fd.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_304fd.dir/CheckIncludeFile.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:23: fatal error: mach/mach.h: No such file or directory
+ #include <mach/mach.h>
+                       ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_304fd.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_304fd/fast] Error 2
+
+
+Determining if the include file mach-o/dyld.h exists failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_17802/fast"
+/usr/bin/make -f CMakeFiles/cmTC_17802.dir/build.make CMakeFiles/cmTC_17802.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_17802.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_17802.dir/CheckIncludeFile.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:25: fatal error: mach-o/dyld.h: No such file or directory
+ #include <mach-o/dyld.h>
+                         ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_17802.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_17802/fast] Error 2
+
+
+Determining if the include file histedit.h exists failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4e9ba/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4e9ba.dir/build.make CMakeFiles/cmTC_4e9ba.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4e9ba.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_4e9ba.dir/CheckIncludeFile.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: histedit.h: No such file or directory
+ #include <histedit.h>
+                      ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_4e9ba.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_4e9ba/fast] Error 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_49425/fast"
+/usr/bin/make -f CMakeFiles/cmTC_49425.dir/build.make CMakeFiles/cmTC_49425.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_49425.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_49425.dir/CheckSymbolExists.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_49425
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_49425.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_49425.dir/CheckSymbolExists.c.o  -o cmTC_49425 -lm 
+CMakeFiles/cmTC_49425.dir/CheckSymbolExists.c.o:CheckSymbolExists.c:function main: error: undefined reference to 'pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_49425] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_49425/fast] Error 2
+
+File /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_49c95/fast"
+/usr/bin/make -f CMakeFiles/cmTC_49c95.dir/build.make CMakeFiles/cmTC_49c95.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_49c95.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_49c95.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_49c95
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_49c95.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_49c95.dir/CheckFunctionExists.c.o  -o cmTC_49c95 -lpthreads -lm 
+/usr/bin/ld: error: cannot find -lpthreads
+CMakeFiles/cmTC_49c95.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_49c95] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_49c95/fast] Error 2
+
+
+Determining if the function setupterm exists in the tinfo failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cccce/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cccce.dir/build.make CMakeFiles/cmTC_cccce.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cccce.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_cccce.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cccce
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cccce.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_cccce.dir/CheckFunctionExists.c.o  -o cmTC_cccce -ltinfo -lm 
+/usr/bin/ld: error: cannot find -ltinfo
+CMakeFiles/cmTC_cccce.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_cccce] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_cccce/fast] Error 2
+
+
+Determining if the function setupterm exists in the terminfo failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6004b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6004b.dir/build.make CMakeFiles/cmTC_6004b.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6004b.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_6004b.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_6004b
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6004b.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_6004b.dir/CheckFunctionExists.c.o  -o cmTC_6004b -lterminfo -lm 
+/usr/bin/ld: error: cannot find -lterminfo
+CMakeFiles/cmTC_6004b.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_6004b] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_6004b/fast] Error 2
+
+
+Determining if the function setupterm exists in the curses failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cbd4d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cbd4d.dir/build.make CMakeFiles/cmTC_cbd4d.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cbd4d.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_cbd4d.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cbd4d
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cbd4d.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_cbd4d.dir/CheckFunctionExists.c.o  -o cmTC_cbd4d -lcurses -lm 
+/usr/bin/ld: error: cannot find -lcurses
+CMakeFiles/cmTC_cbd4d.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_cbd4d] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_cbd4d/fast] Error 2
+
+
+Determining if the function setupterm exists in the ncurses failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9c2bb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9c2bb.dir/build.make CMakeFiles/cmTC_9c2bb.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9c2bb.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_9c2bb.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_9c2bb
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9c2bb.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_9c2bb.dir/CheckFunctionExists.c.o  -o cmTC_9c2bb -lncurses -lm 
+/usr/bin/ld: error: cannot find -lncurses
+CMakeFiles/cmTC_9c2bb.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_9c2bb] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_9c2bb/fast] Error 2
+
+
+Determining if the function setupterm exists in the ncursesw failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c332c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c332c.dir/build.make CMakeFiles/cmTC_c332c.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c332c.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_c332c.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_c332c
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c332c.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_c332c.dir/CheckFunctionExists.c.o  -o cmTC_c332c -lncursesw -lm 
+/usr/bin/ld: error: cannot find -lncursesw
+CMakeFiles/cmTC_c332c.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_c332c] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_c332c/fast] Error 2
+
+
+Determining if the function xar_open exists in the xar failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f6295/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f6295.dir/build.make CMakeFiles/cmTC_f6295.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f6295.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=xar_open   -o CMakeFiles/cmTC_f6295.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_f6295
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f6295.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=xar_open    CMakeFiles/cmTC_f6295.dir/CheckFunctionExists.c.o  -o cmTC_f6295 -lxar -lm 
+/usr/bin/ld: error: cannot find -lxar
+CMakeFiles/cmTC_f6295.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'xar_open'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_f6295] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_f6295/fast] Error 2
+
+
+Determining if the arc4random exist failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ec7e9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ec7e9.dir/build.make CMakeFiles/cmTC_ec7e9.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ec7e9.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_ec7e9.dir/CheckSymbolExists.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘arc4random’ undeclared (first use in this function)
+   return ((int*)(&arc4random))[argc];
+                   ^
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+make[1]: *** [CMakeFiles/cmTC_ec7e9.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_ec7e9/fast] Error 2
+
+File /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random
+  return ((int*)(&arc4random))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the mallctl exist failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b7e0f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b7e0f.dir/build.make CMakeFiles/cmTC_b7e0f.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b7e0f.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_b7e0f.dir/CheckSymbolExists.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:23: fatal error: malloc_np.h: No such file or directory
+ #include <malloc_np.h>
+                       ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_b7e0f.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_b7e0f/fast] Error 2
+
+File /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc_np.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mallctl
+  return ((int*)(&mallctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the malloc_zone_statistics exist failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_923b6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_923b6.dir/build.make CMakeFiles/cmTC_923b6.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_923b6.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_923b6.dir/CheckSymbolExists.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:27: fatal error: malloc/malloc.h: No such file or directory
+ #include <malloc/malloc.h>
+                           ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_923b6.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_923b6/fast] Error 2
+
+File /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc/malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef malloc_zone_statistics
+  return ((int*)(&malloc_zone_statistics))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strerror_s exist failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d60eb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d60eb.dir/build.make CMakeFiles/cmTC_d60eb.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d60eb.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_d60eb.dir/CheckSymbolExists.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘strerror_s’ undeclared (first use in this function)
+   return ((int*)(&strerror_s))[argc];
+                   ^
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+make[1]: *** [CMakeFiles/cmTC_d60eb.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_d60eb/fast] Error 2
+
+File /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strerror_s
+  return ((int*)(&strerror_s))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C SOURCE FILE Test C_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_33383/fast"
+/usr/bin/make -f CMakeFiles/cmTC_33383.dir/build.make CMakeFiles/cmTC_33383.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_33383.dir/src.c.o
+/usr/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_33383.dir/src.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wcovered-switch-default'
+make[1]: *** [CMakeFiles/cmTC_33383.dir/src.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_33383/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bba93/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bba93.dir/build.make CMakeFiles/cmTC_bba93.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_bba93.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -DCXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_bba93.dir/src.cxx.o -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wcovered-switch-default'
+make[1]: *** [CMakeFiles/cmTC_bba93.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_bba93/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_121d2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_121d2.dir/build.make CMakeFiles/cmTC_121d2.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_121d2.dir/src.c.o
+/usr/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG   -Werror -Wdelete-non-virtual-dtor -o CMakeFiles/cmTC_121d2.dir/src.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.c
+cc1: error: command line option '-Wdelete-non-virtual-dtor' is valid for C++/ObjC++ but not for C [-Werror]
+cc1: all warnings being treated as errors
+make[1]: *** [CMakeFiles/cmTC_121d2.dir/src.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_121d2/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WCOMMENT_ALLOWS_LINE_WRAP failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6e563/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6e563.dir/build.make CMakeFiles/cmTC_6e563.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6e563.dir/src.c.o
+/usr/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_WCOMMENT_ALLOWS_LINE_WRAP  -Werror -Wcomment   -o CMakeFiles/cmTC_6e563.dir/src.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.c
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.c:1:1: error: C++ style comments are not allowed in ISO C90 [-Werror]
+ // \
+ ^
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.c:1:1: error: (this will be reported only once per input file) [-Werror]
+/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.c:1:1: error: multi-line comment [-Werror=comment]
+cc1: all warnings being treated as errors
+make[1]: *** [CMakeFiles/cmTC_6e563.dir/src.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_6e563/fast] Error 2
+
+Source file was:
+// \
+//
+int main() {return 0;}
+Performing C SOURCE FILE Test C_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_331eb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_331eb.dir/build.make CMakeFiles/cmTC_331eb.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_331eb.dir/src.c.o
+/usr/bin/cc    -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -DC_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_331eb.dir/src.c.o   -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.c
+cc1: error: -Werror=date-time: no option -Wdate-time
+make[1]: *** [CMakeFiles/cmTC_331eb.dir/src.c.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_331eb/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_WERROR_DATE_TIME failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6da8a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6da8a.dir/build.make CMakeFiles/cmTC_6da8a.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6da8a.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -DCXX_SUPPORTS_WERROR_DATE_TIME   -Werror -Werror=date-time -o CMakeFiles/cmTC_6da8a.dir/src.cxx.o -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: -Werror=date-time: no option -Wdate-time
+make[1]: *** [CMakeFiles/cmTC_6da8a.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_6da8a/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG failed with the following output:
+Change Dir: /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8dcb2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8dcb2.dir/build.make CMakeFiles/cmTC_8dcb2.dir/build
+make[1]: Entering directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8dcb2.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -std=c++11 -ffunction-sections -fdata-sections -fno-common -Woverloaded-virtual -fno-strict-aliasing -DCXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG   -Werror -Wnested-anon-types -o CMakeFiles/cmTC_8dcb2.dir/src.cxx.o -c /home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wnested-anon-types'
+make[1]: *** [CMakeFiles/cmTC_8dcb2.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/home/amoda/Project/asm/emsdk_portable/clang/fastcomp/build_master_64/CMakeFiles/CMakeTmp'
+make: *** [cmTC_8dcb2/fast] Error 2
+
+Source file was:
+int main() { return 0; }

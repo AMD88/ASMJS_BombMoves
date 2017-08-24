@@ -1,0 +1,3 @@
+/home/amoda/Project/asm/emsdk_portable/emscripten/master_64bit_optimizer/CMakeFiles/edit_cache.dir
+/home/amoda/Project/asm/emsdk_portable/emscripten/master_64bit_optimizer/CMakeFiles/rebuild_cache.dir
+/home/amoda/Project/asm/emsdk_portable/emscripten/master_64bit_optimizer/CMakeFiles/optimizer.dir
